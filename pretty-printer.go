@@ -10,7 +10,7 @@ Description:
 
 To run, type this command:
 
-	$ go run a2.go input.json > output.html
+	$ go run pretty-printer.go input.json > output.html
 
 */
 
